@@ -1,7 +1,3 @@
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
-
-Welcome to Car Showcase, a cutting-edge Next.js 13 application that demonstrates the power of server-side rendering, advanced search functionality, and filtering capabilities. This project not only showcases the latest features of Next.js 13, but it also offers valuable insights into creating a seamless user experience.
-
 ## Features
 
 - **Next.js 13 App Router and Server Side Rendering**:
